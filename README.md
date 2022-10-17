@@ -1,5 +1,5 @@
 # About me
-- 👋 Hi, I’m @alanpizzo
+- 👋 Hi, I’m **pizzoAlan**
 - 👀 I’m interested in leanrnin new languages to program.
 - 🌱 I’m currently learning Java, Python and HTML/CSS.
 - 💞️ I’m looking to collaborate on education
